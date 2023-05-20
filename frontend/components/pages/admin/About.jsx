@@ -39,7 +39,7 @@ const Profile = () => {
                         Program : Fenix Music
                     </Typography>
                     <Typography align="center" variant="h5" component="div" style={{ marginTop: "10px" }}>
-                        Version : 1.0
+                        Version : 0.5
                     </Typography>
                     <Typography align="center" variant="h5" component="div" style={{ marginTop: "10px" }}>
                         Description : MP3 Player and streaming radio
