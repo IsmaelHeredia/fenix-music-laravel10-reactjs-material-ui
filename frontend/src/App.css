@@ -1,0 +1,203 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mini-espacio {
+  margin-top: 1em;
+}
+
+.espacio {
+    margin-top: 2em;
+}
+
+.doble-espacio {
+    margin-top: 3em;
+}
+
+.espacio-icono {
+    margin-right:5px;
+}
+
+.ingreso {
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 5%;
+}
+
+.form-ingreso {
+  background-color: #2A2A2A !important;
+}
+
+.settings-1 {
+  margin-left: 30%;
+  margin-right: 20%;
+  margin-top: 5%;
+}
+
+.settings-2 {
+  margin-left: 30%;
+  margin-right: 20%;
+  margin-top: 5%;
+}
+
+.profile {
+  margin-left: 30%;
+  margin-right: 20%;
+  margin-top: 5%;
+}
+
+.contenedor {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.box {
+  margin-left: 300px;
+}
+
+.box_player {
+  margin-left: 300px;
+  margin-right: 100px;
+}
+
+.box-playlists {
+  margin-left: 35%;
+  margin-right: 20%;
+}
+
+.box-stations {
+  margin-left: 20%;
+  margin-right: 10%;
+}
+
+body {
+  background-color :#2A2A2A !important;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: 60px;
+  color:white;
+  background-color:#282828;
+}
+
+.danger {
+  background-color: red !important;
+}
+
+.scrollbar {
+  width:100%;
+  height: calc(100vh - 300px);
+  overflow:auto;
+  border-radius: 10px;
+}
+
+.scrollbar-playlists {
+  width:100%;
+  height: calc(100vh - 200px);
+  overflow:auto;
+  border-radius: 10px;
+}
+
+.scrollbar-stations {
+  width:100%;
+  height: calc(100vh - 200px);
+  overflow:auto;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  /*background: rgba(255,0,0,0.8);*/
+  background-color: #555;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+::-webkit-scrollbar-corner {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+a {
+  color:white !important;
+}
+
+.tableHover :hover {
+  background-color: #333333 !important;
+  cursor:pointer !important;
+}
+
+.tableSelected {
+  background-color: #0078D7 !important;
+  cursor:pointer;
+}
+
+.white {
+  color: white;
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
+.App-logo-playlist {
+  height: 40vmin;
+  pointer-events: none;
+  text-align: center;
+  margin-left: 40%;
+  margin-top: 10%;
+}
