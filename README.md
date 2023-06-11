@@ -2,7 +2,7 @@
 
 A program made in Laravel 10 with ReactJS, Material UI is also used in the frontend.
 
-To install the necessary modules, you have to use the "composer install" command on the backend and "npm install --legacy-peer-deps" on the frontend, then to run the frontend you have to use the "npm run dev" command ".
+To install the necessary modules, you have to use the commands "composer install", "php artisan key:generate", "php artisan migrate" on the backend and "npm install --legacy-peer-deps" on the frontend, then to run the frontend you have to use the "npm run dev" command ".
 
 Once the modules are installed, you have to create a new user with postman from the backend as follows:
 
