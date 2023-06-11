@@ -20,8 +20,6 @@ Some images of the project:
 
 ![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj529wfcV90_nfYZS_Hqn6URBdgz7Jrw1ZBXufWwcFEHuxI9JB8v4-A4TDD72NAjH-LrPFctzgim9fD5mRAlWFnad6tE-l_3PZy29yZ6YRKkMGhhNwVID9Pi4Yfmr-9QqHUswzTZxi4EHJqel3J-ly9LNdIqYlf_BnNiAlkl-UNk_YaHz-_1rgt18qL/s1919/3.png)
 
-![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ifwlRDso6MSm2TAU0vku7x560QzZnd1GxJf2UHZU27SUg2Oh3HR-TuxkFDo28lrb2hVAUc20i6JWwlyTGjNN-Kx_34WFsnkiNDR7G7RGAmnfFU8b7Hnlx0j0oM4jC3XftZ-v8qX9mjLcoWYoC9PTza7vGBA1_xK7oWt6o1uuEoIsBw18eJjoCfpR/s1493/crear%20usuario.png)
-
 ![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnBE77sKitmL2t_SZy2w4nHdjmEMk2DvL1c47RTgWdlxQhNSKq7Zgoaaj_YrNsZlA2iDLeLtyLWfQA_DYCwmjXl0U1Vo_IyQeHAyepZS-DwBGK6jwnMcz6MVm1ibkok61DV35fxuFXke-z-Ad0PTNPC1Yckxk-HfXBSr2DTHT0oNVJ_WLxPJ49KvvH/s1919/4.png)
 
 ![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYDKG9KpUaja1C8XfbXfwoiVb3ApREcu9LoYw5cXv5EwNThHp9YIEn5ynVvwrTnmxnDXLc9IO4rTN94dhPgB2EVQHgSG-EKMyi8Ww_AjBj9dI6t-ZbvYP2q1RHP2VPvBO_etsgMEsypBxbIihkiqj9OUwENHlDETCWhaRPz5xF-kOweYrtlmttpHqL/s1919/5.png)
